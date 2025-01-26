@@ -15,7 +15,6 @@ A large percentile save at random because they are on a tight budget, lack finan
 I recommend giving out a lot of information about finances and  incentivizing people that save with rewards and benefits.
 
 App should also focus on automation, rewards and withdrawal anytime without penalty.
-![CUSTOMER ANALYSIS DASHBOARD](CUSTOMER ANALYSIS DASHBOARD.png)
 
 ![CUSTOMER ANALYSIS DASHBOARD](https://github.com/Ibukun-Oluwatosin/save-smart/blob/main/customer's%20profile)
 
