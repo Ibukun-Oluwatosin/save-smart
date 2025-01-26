@@ -21,11 +21,9 @@ App should also focus on automation, rewards and withdrawal anytime without pena
 
 ## Data Source
 
-The data used for this analysis is contained in the [savesmartresponses.csv](https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue/blob/main/skincare_sales_data_csv.csv)](https://github.com/Ibukun-Oluwatosin/save-smart/blob/main/Save%20Smart%20(Responses).xlsx)` file. It includes various attributes such as date of sale, product category, sales channel, and sales amount.
+The data used for this analysis is contained in the [savesmartresponses.csv](https://github.com/Ibukun-Oluwatosin/save-smart/blob/main/Save%20Smart%20(Responses).xlsx)` file. It includes various attributes such as age group, savings plan, savings frequency, and so on.
 
 ## Tools and Technologies
-
-- **R**: Used for data cleaning and initial analysis. Key libraries include Pandas for data manipulation and Matplotlib for basic visualizations.
 - **Tableau**: Used for creating the final interactive dashboard.
 - **excel spreadsheet**: clean data, create pivot tables and basic visualizations
     - [Download here](https://microsoft.com)
