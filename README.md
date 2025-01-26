@@ -21,7 +21,7 @@ App should also focus on automation, rewards and withdrawal anytime without pena
 
 ## Data Source
 
-The data used for this analysis is contained in the [gourmet-bistro-sales.csv](https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue/blob/main/skincare_sales_data_csv.csv)` file. It includes various attributes such as date of sale, product category, sales channel, and sales amount.
+The data used for this analysis is contained in the [savesmartresponses.csv](https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue/blob/main/skincare_sales_data_csv.csv)](https://github.com/Ibukun-Oluwatosin/save-smart/blob/main/Save%20Smart%20(Responses).xlsx)` file. It includes various attributes such as date of sale, product category, sales channel, and sales amount.
 
 ## Tools and Technologies
 
