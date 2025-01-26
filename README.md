@@ -1,6 +1,6 @@
 # save-smart
 
-## Sales Data Dashboard
+## Finance data dashboard
 
 This repository contains a dashboard created to analyze and visualize financial patterns amongst younger generations. The project demonstrates my skills in data analysis, data visualization, and business intelligence using Python and Tableau.
 
@@ -32,4 +32,4 @@ The data used for this analysis is contained in the [savesmartresponses.csv](htt
 
 1. **Clone the repository**:
    ```sh
-   git clone ([https://ibukun-oluwatosin.github.io/skincare-sales-data/](https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue))
+   git clone ((https://github.com/Ibukun-Oluwatosin/save-smart))
