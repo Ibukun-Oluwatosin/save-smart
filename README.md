@@ -17,8 +17,8 @@ I recommend giving out a lot of information about finances and  incentivizing pe
 App should also focus on automation, rewards and withdrawal anytime without penalty.
 ![CUSTOMER ANALYSIS DASHBOARD](CUSTOMER ANALYSIS DASHBOARD.png)
 
-![CUSTOMER ANALYSIS DASHBOARD](https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue/assets/173062633/3af1b348-cc98-4c4d-9d09-e392014eccb3)
-
+![CUSTOMER ANALYSIS DASHBOARD]([https://github.com/Ibukun-Oluwatosin/Nigeria-Skincare-Revenue/assets/173062633/3af1b348-cc98-4c4d-9d09-e392014eccb3)
+](https://github.com/Ibukun-Oluwatosin/save-smart/blob/main/customer's%20profile)
 
 ## Data Source
 
